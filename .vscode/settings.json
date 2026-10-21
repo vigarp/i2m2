@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "vigarp",
+        "projectKey": "vigarp_i2m2"
+    }
+}
